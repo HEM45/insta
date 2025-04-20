@@ -1,0 +1,8 @@
+certifi==2025.1.31
+charset-normalizer==3.4.1
+idna==3.10
+instaloader==4.13.2
+pyTelegramBotAPI==4.23.0
+requests
+telebot
+instagrapi
