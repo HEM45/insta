@@ -8,7 +8,7 @@ cat <<EOL > .devcontainer/devcontainer.json
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/Kanna/sharp.py",
+    "postStartCommand": "python3 /workspaces/insta/mrin.py",
     "customizations": {
         "vscode": {
             "settings": {
